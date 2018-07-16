@@ -1,0 +1,32 @@
+body{
+  font-family: Bowlby One SC;
+}
+header {
+  text-align: center;
+  font-size: 35px;
+  background: rgb(204, 204, 204);
+  width: 90%;
+  margin: 0 auto;
+  border: solid;
+  border-radius: 10px;
+}
+img {
+  width: 80px;
+  margin: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+p {
+  padding-top: 5px;
+  text-align: center;
+}
+.row {
+  background: rgba(0, 0, 0, 0.3);
+  margin: 10px;
+  border-radius: 10px;
+}
+.row:hover{
+  background: rgba(0,0,0,0.2)
+}
